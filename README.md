@@ -23,7 +23,9 @@
         print("no of rows",len(df.axes[1]))
 ```
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/Dhiyanesh24/Read-from-CSV/assets/118362288/92e0055d-b6d9-452b-8529-932542027d6f)
 
 
-## RESULT:
+
+
+## RESULT: Thus the program executed successfully for read csv file.
